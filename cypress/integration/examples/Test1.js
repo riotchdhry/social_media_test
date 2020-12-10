@@ -4,7 +4,7 @@ import SignUp from '../../support/pageObjects/SignUp';
 import Dashboard from '../../support/pageObjects/Dashboard';
 import CreateProfile from '../../support/pageObjects/CreateProfile';
 import AddExperience from '../../support/pageObjects/AddExperience'
-import { add } from 'cypress/types/lodash';
+//import { add } from 'cypress/types/lodash';
 //import { create } from 'cypress/types/lodash';
 
 describe('This is the Test Framework_ End to End Sign up Flow.', function(){
@@ -63,9 +63,12 @@ describe('This is the Test Framework_ End to End Sign up Flow.', function(){
 
     it('Test_04:: Edit details of user::Add Experience', function(){
         dashboard.getAddExp().click()
-        addexperience.getCompany().type()
+        addexperience.getCompany().type(this.data.company)
+        addexperience.getJobtitle().type(this.data.jobtitle)
+        addexperience.getLoc().type(this.data.loc)
         addexperience.getStartDate().click().type(this.data.expstart)
-        addexperience.getEndDate().click().type(this.data.expend)\
+        addexperience.getEndDate().click().type(this.data.expend)
+
 
     });
         

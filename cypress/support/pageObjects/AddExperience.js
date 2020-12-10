@@ -19,6 +19,18 @@ class AddExperience{
     getEndDate(){
         return cy.get(':nth-child(5) > .form-control')
     }
+
+    getCurrentJob(){
+        return cy.get('#current')
+    }
+
+    getJobDescp(){
+        return cy.get(':nth-child(7) > .form-control')
+    }
+
+    getSubmit(){
+        return cy.get('.btn')
+    }
 }
 
 export default AddExperience;

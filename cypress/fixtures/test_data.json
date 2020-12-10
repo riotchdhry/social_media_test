@@ -15,8 +15,9 @@
   "youtube" : "https://www.youtube.com",
   "company" : "XYZ inc.",
   "jobtitle" : "Sr. Software Engineer.",
+  "loc" : "Kitchener, ON",
   "expstart" : "2005-12-01",
   "expend" : "2007-12-01",
-  "jobdescp" : "This was my first job. where i worked as Full stack dev.",
+  "jobdescp" : "This was my first job. where i worked as Full stack dev."
 
 }
