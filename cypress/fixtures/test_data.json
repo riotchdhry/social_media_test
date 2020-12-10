@@ -1,0 +1,22 @@
+{
+  "name" : "Jacob02",
+  "email" : "jacob02.b@aol.com",
+  "password" : "jack@123",
+  "cpassword" : "jack@123",
+  "handle" : "Jacobeer02",
+  "year" : "2019",
+  "sem" : "Third",
+  "skill" : "CSS, JS, HTML",
+  "git" : "https://github.com/",
+  "about" : "I am student at Conestoga with interests in Full stack development.",
+  "fb" : "https://www.facebook.com",
+  "insta" : "https://www.instagram.com",
+  "in" : "https://www.linkedin.com",
+  "youtube" : "https://www.youtube.com",
+  "company" : "XYZ inc.",
+  "jobtitle" : "Sr. Software Engineer.",
+  "expstart" : "2005-12-01",
+  "expend" : "2007-12-01",
+  "jobdescp" : "This was my first job. where i worked as Full stack dev.",
+
+}
