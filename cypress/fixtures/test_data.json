@@ -1,9 +1,9 @@
 {
-  "name" : "Jacob02",
-  "email" : "jacob02.b@aol.com",
+  "name" : "Jacob18",
+  "email" : "jacob18.b@aol.com",
   "password" : "jack@123",
   "cpassword" : "jack@123",
-  "handle" : "Jacobeer02",
+  "handle" : "Jacobeer18",
   "year" : "2019",
   "sem" : "Third",
   "skill" : "CSS, JS, HTML",
@@ -16,8 +16,14 @@
   "company" : "XYZ inc.",
   "jobtitle" : "Sr. Software Engineer.",
   "loc" : "Kitchener, ON",
-  "expstart" : "2005-12-01",
-  "expend" : "2007-12-01",
-  "jobdescp" : "This was my first job. where i worked as Full stack dev."
-
+  "expstart" : "2017-01-01",
+  "expend" : "2019-12-01",
+  "jobdescp" : "This was my first job. where i worked as Full stack dev.",
+  "school" : "Conestoga College",
+  "degree" : "Graduate Certificate",
+  "subject" : "Web Design and Development",
+  "edustart" : "2014-12-01",
+  "eduend" : "2016-12-01",
+  "progdescp" : "I was a full time student in wb design and development course at Conestoga college Doon Campus.",
+  "thought" : "This is the post from posts page from jacob beer."
 }

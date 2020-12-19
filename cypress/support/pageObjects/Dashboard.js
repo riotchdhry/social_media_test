@@ -19,9 +19,7 @@ class Dashboard{
         return cy.get('.btn')
     }
 
-    getJobDescp(){
-        return cy.get(':nth-child(7) > .form-control')
-    }
+    
 
 }
 

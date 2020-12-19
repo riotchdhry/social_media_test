@@ -1,6 +1,7 @@
 {
   "env": {
-    "url": "https://thawing-springs-47729.herokuapp.com/login"
+    "url": "https://thawing-springs-47729.herokuapp.com",
+    "url1" : "https://thawing-springs-47729.herokuapp.com/profile/"
   },
   "projectId": "x7nk4v"
 }
